@@ -1,0 +1,6 @@
+.DS_Store
+.venv/
+layers/
+.pyc
+requirements.txt
+__pycache__/
